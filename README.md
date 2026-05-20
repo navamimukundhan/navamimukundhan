@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi there,
+I'm currently pursuing B.Tech Computer science and engineering from government engineering college,wayanad.Looking forward to learn more in the tech world,build some amazing real world projects and have alot of fun.That's all I'm looking forward to.
 <!--
 **navamimukundhan/navamimukundhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
