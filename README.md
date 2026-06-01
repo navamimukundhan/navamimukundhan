@@ -1,6 +1,5 @@
-## Hi there,
-I'm currently pursuing B.Tech Computer science and engineering from government engineering college,wayanad.Looking forward to learn more in the tech world,build some amazing real world projects and have alot of fun.That's all I'm looking forward to.
-# Hi, I'm Navami 👋
+<img src="images/banner.png">
+ Hi, I'm Navami 👋
 
 🎓 B.Tech CSE Student
 📍 GEC Wayanad
@@ -17,18 +16,6 @@ I'm currently pursuing B.Tech Computer science and engineering from government e
 - Prepare for GATE CSE
 
 ## Tech Stack
-C++ | Python | Git | GitHub
-<!--
-**navamimukundhan/navamimukundhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+C| Python | html | GitHub | css
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
